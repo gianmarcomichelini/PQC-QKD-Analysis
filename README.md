@@ -1,4 +1,4 @@
-# Post-Quantum Cryptography (PQC) Toolkit
+# Post-Quantum Cryptography (PQC) and Quantum Key Distribution Toolkit
 
 A comprehensive suite of tools and simulations for exploring, testing, and benchmarking Post-Quantum Cryptographic algorithms. This toolkit provides both classical and quantum-resistant implementations for digital signatures, key encapsulation mechanisms, and quantum key distribution protocols.
 
