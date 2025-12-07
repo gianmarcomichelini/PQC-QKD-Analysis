@@ -47,7 +47,7 @@ python3 --version
 ### 1. Run the Simulation
 
 ```bash
-python3 qkd_bb84_enhanced.py
+python3 qkd_bb84_sim.py
 ```
 
 ### 2. Configuration Parameters
