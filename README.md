@@ -1,4 +1,4 @@
-# PQC Analyser: Post-Quantum Cryptography Benchmarking Suite
+# Post-Quantum Cryptography Benchmarking Suite
 
 A Dockerized environment for analyzing, benchmarking, and simulating Post-Quantum Cryptography (PQC) algorithms. This suite features a custom build of **OpenSSL 3.6.0** integrated with **liboqs** and the **OQS Provider**, enabling you to test algorithms like **ML-DSA (Dilithium)**, **Falcon**, **SPHINCS+**, and **ML-KEM (Kyber)** alongside classical RSA and ECDSA.
 
